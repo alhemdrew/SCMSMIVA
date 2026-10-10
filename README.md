@@ -256,11 +256,14 @@ screenshots/
 
 Then display them here:
 
-![Application dashboard](screenshots/z003.png)
+![Application dashboard](screenshots/z001.png)
 
 *The main dashboard, showing course information and summary totals.*
 
-![Course records and search](screenshots/z002.png)
+![Course records and search](screenshots/z003.png)
+
+
+![Course dashboard](screenshots/z003.png)
 
 *The course directory and search interface.*
 
